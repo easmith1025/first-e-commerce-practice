@@ -268,3 +268,9 @@ text-decoration: line-through;
 padding-right: 6px;
 color: gray;
 }
+
+/*explore*/
+
+#explore {
+  background-color: rgba(115, 66, 214, 0.1);
+}
